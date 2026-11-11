@@ -13,18 +13,16 @@ Keep everything in the folder together: the app won't start if `Meat Raffle.exe`
 
 Two windows open:
 
-- **Meat Raffle** is the display for the room. It shows the club logo until the first number is drawn.
-- **Raffle Controls** is for the person running the raffle.
+- **Meat Raffle** is the display for the room. It shows the logo until the first number is drawn.
+- **Raffle Controls** is for the person running the raffle in the office.
 
 ## Running a raffle
 
-1. Drag the **Meat Raffle** window onto the TV or projector and click **Full Screen** in the controls. Keep the controls on your own screen.
+1. Drag the **Meat Raffle** window onto the TV and click **Full Screen** in the controls. Keep the controls on your own screen.
 2. Type the lowest ticket number and click the **SUBMIT** button under it.
 3. Type the highest ticket number and click the **SUBMIT** button under it.
 4. Click **Generate Number**. Numbers spin for a few seconds, then the winning number appears. A moment later it is added to the **Previous Draws** list.
 5. Click **Generate Number** again for each prize. A number that has already been drawn is never drawn again.
-
-To leave full screen, click the display and press **Esc**.
 
 ## Good to know
 
